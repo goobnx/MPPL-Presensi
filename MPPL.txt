@@ -1,0 +1,2 @@
+user : id_user, nama_user, username, password
+tamu : id_tamu, nama_tamu,alamat, jkel, kehadiran
